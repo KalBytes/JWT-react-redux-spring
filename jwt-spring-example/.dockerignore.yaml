@@ -1,0 +1,7 @@
+.idea
+.git
+.env
+.gitignore
+.cache
+*.md
+*.yaml
